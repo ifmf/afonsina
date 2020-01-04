@@ -1,0 +1,167 @@
+/*
+Default accent color
+
+*/
+
+
+/* menu */
+.navbar nav ul.nav li.dropdown ul.dropdown-menu li a:active, .navbar nav ul.nav li.dropdown ul.dropdown-menu li a:focus {
+    background: #46abf2;
+}
+ul.topmenu li a:hover {
+    color: #46abf2;
+}
+
+/* slider */
+.bg-color {
+  background: #46abf2;
+}
+
+/* layerslider */
+.ls-highlighted-h.color {
+	background: #46abf2;	
+}
+
+/* form */
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #46abf2;
+}
+
+form#contactform .validation {
+	color:#46abf2;
+}
+#sendmessage {
+	border:1px solid #46abf2;
+
+}
+
+/* icon */
+[class^="icon-"].active {
+	color:#46abf2;
+}
+
+a i.icon-bglight:hover,
+a i.icon-bgdark:hover {
+  background: #46abf2;
+}
+i.icon-bglight.active {
+  background: #46abf2;
+}
+
+ul.styledlist li:before {
+	color:#46abf2;
+}
+
+/* logo icon */
+.logo h1 [class^="icon-"] {
+	color:#46abf2;
+}
+
+.footer_logo h3 [class^="icon-"] {
+	color:#46abf2;
+}
+
+/* CTA */
+.cta-text h2 span {
+	color:#46abf2;
+}
+
+/*-- button -- */
+.btn-color {
+  border:1px solid #46abf2;
+  background: #46abf2;
+}
+
+/* content */
+.box:hover .text h4 {
+	color:#46abf2;
+}
+#inner-headline ul.breadcrumb li a:hover {
+	color:#46abf2;
+}
+
+a.thumbnail:hover,
+a.thumbnail:focus {
+  border-color: #46abf2;
+}
+
+/* blog */
+article .post-heading h3 a:hover {
+	text-decoration:none;
+	color:#46abf2;
+}
+
+ul.cat li a:hover, ul.folio-detail li a:hover {
+	color:#46abf2;
+}
+
+.meta-post a.author:hover,.meta-post a.date:hover {
+  background: #46abf2;
+}
+
+.about-author {
+	background: #46abf2;
+}
+
+.meta-bottom li a:hover {
+	color:#46abf2;
+}
+
+#pagination a:hover {
+  background: #46abf2;
+}
+
+/* component */
+.pagination ul > .active > a,
+.pagination ul > .active > span {
+  background: #46abf2;
+  border:1px solid #46abf2;
+}
+.pagination ul > .active > a:hover,
+.pagination ul > .active > span:hover {
+  background: #46abf2;
+  border:1px solid #46abf2;
+}
+.pagination ul > li > a:hover{
+  color:#46abf2;
+}
+
+.pullquote-left {
+	border-left:5px solid #46abf2;
+}
+
+.pullquote-right {
+	border-right:5px solid #46abf2;
+}
+
+.pricing-box-wrap.special .pricing-heading {
+	background: #46abf2;
+}
+
+/* portfolio */
+ul.portfolio-categ.filter li.active a {
+  color:#46abf2;
+}
+
+/* footer */
+footer a:hover {
+	color:#46abf2;
+}
+footer ul.link-list li a:hover {
+	color:#46abf2;
+}
